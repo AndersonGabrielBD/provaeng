@@ -21,6 +21,12 @@ export const NavBar = () => {
           <br />
           <br />
           <Link to="/arvores" className="text-white">Árvores</Link>
+          <br />
+          <br />
+          <Link to="/hashing" className="text-white">Hashing</Link>
+          <br />
+          <br />
+          <Link to="/list" className="text-white">Listas encadeadas</Link>
         </div>
       </div>
 
