@@ -4,6 +4,7 @@ import { NavBar } from '../src/components/NavBar';
 import { Home } from './pages/Home';
 import { Trees } from './pages/Trees';
 import Hashing from './pages/Hashing';
+
 import List from './pages/List';
 const App = () => {
   return (
